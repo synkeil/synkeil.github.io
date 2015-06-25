@@ -1,0 +1,15 @@
+<svg id="Layer_1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="246.7" viewBox="0 0 150.31266 246.69867" width="150.31" version="1.1" y="0px" x="0px" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs3">
+  <linearGradient id="top_1_" y2="-135.09" gradientUnits="userSpaceOnUse" x2="174.92" gradientTransform="matrix(1,0,0,-1,-50,111)" y1="110.61" x1="174.92">
+   <stop id="stop26" stop-color="#002E3B" offset="0"/>
+   <stop id="stop28" stop-color="#002639" offset="1"/>
+  </linearGradient>
+ </defs>
+ <polygon id="top" transform="translate(-50.059 -1.4287)" stroke="url(#top_1_)" points="124.94 39.118 165.48 58.892 198.84 38.046 124.91 1.985 51 38.035 51 38.067 84.368 58.918 84.396 58.904 84.396 58.892" fill="url(#top_1_)"/>
+ <path id="path4165" fill-opacity="0" d="m15.483 35.091 74.905-35.955 74.532 36.33-34.46 21.722-40.072-20.224-41.198 20.224z"/>
+ <g fill-rule="evenodd">
+  <path id="path4167" d="m149.94 36.589-34.46 21.161 0.75 58.99-114.23 56.18-0.3745 38.57 148.68-74.53z" fill="#0aad8b"/>
+  <path id="path4169" d="m0.4521 37.009c10.057 5.181 22.332 13.5 33.817 21.115l0.187 57.116 114.98 56.55-0.38 38.58-149.06-74.16z" fill="#003f6d"/>
+  <path id="path4171" d="m38.891 192.77-37.266 18.72 73.782 35.21 73.973-36.33-36.33-18.35-37.268 17.6z" fill="#002739"/>
+ </g>
+</svg>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 1920 1765.609"
+   height="1765.609"
+   width="1920"
+   preserveAspectRatio="xMidYMid"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dark_bg.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1735"
+     inkscape:window-height="992"
+     id="namedview4305"
+     showgrid="false"
+     inkscape:zoom="0.76458333"
+     inkscape:cx="737.68904"
+     inkscape:cy="1489.3841"
+     inkscape:window-x="1440"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4785"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <style
+       id="style6">
+
+      .cls-3 {
+        fill: #4cffe9;
+      }
+
+      .cls-4 {
+        fill: #00c8b0;
+      }
+
+      .cls-5 {
+        fill: #05d4ba;
+      }
+
+      .cls-6 {
+        fill: #03dec3;
+      }
+
+      .cls-7 {
+        fill: #00eed1;
+      }
+    </style>
+  </defs>
+  <g
+     id="dark_bgsvg"
+     transform="translate(0,683.10899)">
+    <g
+       id="g4785"
+       transform="matrix(1,0,0,1.6265398,0,-678.22937)">
+      <rect
+         style="fill:#abc2bf;fill-opacity:1"
+         id="rect-1"
+         class="cls-3"
+         width="1920"
+         height="1082"
+         x="0"
+         y="0" />
+      <path
+         style="fill:#779f9a;fill-opacity:1;fill-rule:evenodd"
+         d="M 463,343 C 463,343 0,717 0,717 0,717 0,-3 0,-3 c 0,0 253,0 253,0 0,0 210,346 210,346 z"
+         id="path-1"
+         class="cls-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#85aaa5;fill-opacity:1;fill-rule:evenodd"
+         d="m 284,1080 c 0,0 -284,1 -284,1 0,0 0,-365 0,-365 0,0 463,-374 463,-374 0,0 -179,738 -179,738 z"
+         id="path-2"
+         class="cls-5"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#92b2ae;fill-opacity:1;fill-rule:evenodd"
+         d="m 1919,1080.5 c 0,0 -1637,2 -1637,2 0,0 180,-740.5 180,-740.5 0,0 1457,738.5 1457,738.5 z"
+         id="path-3"
+         class="cls-6"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#9ebeba;fill-opacity:1;fill-rule:evenodd"
+         d="M 1920,103.17294 462,342 252,-4.3246046 l 1668,0 z"
+         id="path-4"
+         class="cls-7"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+</svg>

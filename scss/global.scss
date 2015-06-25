@@ -1,0 +1,14 @@
+#main {
+    position: absolute;
+    width: 100%;
+    min-width: 900px;
+}
+@import'normalize';
+@import'framework';
+@import'form';
+@import'home';
+@import'portfolio';
+@import'about';
+@import'header';
+@import'footer';
+@import'skills';
