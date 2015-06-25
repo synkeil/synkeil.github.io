@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4210"
+   version="1.1"
+   viewBox="0 0 1100.6 543.56702"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="html5-banner.svg"
+   width="1100.6"
+   height="543.56702">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Slice 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="883"
+     inkscape:window-height="480"
+     id="namedview21"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.56190476"
+     inkscape:cx="550.27"
+     inkscape:cy="294.458"
+     inkscape:window-x="1440"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4210" />
+  <title
+     id="title4212">Slice 1</title>
+  <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+  <path
+     id="path4246"
+     d="m 0,0 1100.6,0 0,465.56 L 548.17,543.067 0.46,465.482 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#9e422a;fill-rule:evenodd" />
+  <path
+     id="path4262"
+     d="m 697.22,125.327 122.92,379.79 -271.92,38.45 -79.129,-11.55 -40.776,-107.4 z"
+     inkscape:connector-curvature="0"
+     style="fill:#95331a;fill-rule:evenodd" />
+  <g
+     id="g4547"
+     transform="matrix(0.81537,0,0,0.81101,340.957,43.6833)">
+    <polygon
+       id="polygon4521"
+       points="255.78,512 107.64,470.88 74.633,100.62 437.37,100.62 404.32,470.82 "
+       style="fill:#e44d26" />
+    <polygon
+       id="polygon4523"
+       points="256,130.89 256,480.52 376.03,447.25 404.27,130.89 "
+       style="fill:#f16529" />
+    <polygon
+       id="polygon4525"
+       points="256,313.63 256,268.22 195.91,268.22 191.76,221.72 256,221.72 256,176.3 255.84,176.3 142.13,176.3 143.22,188.49 154.38,313.63 "
+       style="fill:#ebebeb" />
+    <polygon
+       id="polygon4527"
+       points="255.8,386.21 205.23,372.55 201.99,336.33 177.42,336.33 156.41,336.33 162.77,407.63 255.79,433.46 256,433.4 256,386.15 "
+       style="fill:#ebebeb" />
+    <g
+       id="g11"
+       style="fill:#ffffff">
+      <g
+         id="g13">
+        <path
+           id="path4529"
+           d="m 108.38,0 23.077,0 0,22.8 21.11,0 0,-22.8 23.078,0 0,69.044 -23.077,0 0,-23.12 -21.11,0 0,23.12 -23.077,0 0,-69.044 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4531"
+           d="m 205.99,22.896 -20.316,0 0,-22.896 63.72,0 0,22.896 -20.325,0 0,46.148 -23.078,0 0,-46.148 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4533"
+           d="m 259.51,0 24.063,0 14.802,24.26 14.787,-24.26 24.072,0 0,69.044 -22.982,0 0,-34.222 -15.877,24.549 -0.397,0 -15.888,-24.549 0,34.222 -22.58,0 0,-69.044 z"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path4535"
+           d="m 348.72,0 23.084,0 0,46.222 32.453,0 0,22.822 -55.537,0 0,-69.044 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <polygon
+         id="polygon4537"
+         points="360.29,280.41 361.4,268.22 349.16,268.22 255.84,268.22 255.84,313.63 311.76,313.63 306.49,372.52 255.84,386.19 255.84,433.44 348.94,407.63 349.62,399.96 " />
+      <polygon
+         id="polygon4539"
+         points="369.6,176.3 255.84,176.3 255.84,204.51 255.84,221.6 255.84,221.72 365.38,221.72 365.38,221.72 365.53,221.72 366.44,211.51 368.51,188.49 " />
+    </g>
+  </g>
+</svg>

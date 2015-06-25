@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg id="banner_svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 947.50054 410.36332">
+ <g id="layer1" stroke-linejoin="round" fill-opacity="0" transform="translate(-27.282 -576.89)" stroke="#000" stroke-width="5">
+  <path id="path3336" class="hive h1" d="m85.667 685.36 113.68-1.1031 57.796 97.899-55.885 99.003-113.68 1.1031-57.796-97.899z">
+   <title id="title3350">hive1</title>
+  </path>
+  <path id="path3340" class="hive h2" d="m264.6 580.5 113.68-1.1031 57.796 97.899-55.885 99.003-113.68 1.1031-57.796-97.899z">
+   <title id="title3352">hive2</title>
+  </path>
+  <path id="path3342" class="hive h3" d="m265.31 787.86 113.68-1.1031 57.796 97.899-55.885 99.003-113.68 1.1031-57.796-97.899z">
+   <title id="title3354">hive3</title>
+  </path>
+  <path id="path3344" class="hive h4" d="m443.29 683.82 113.68-1.1031 57.796 97.899-55.885 99.003-113.68 1.1031-57.796-97.899z">
+   <title id="title3356">hive4</title>
+  </path>
+  <path id="path3346" class="hive h5" d="m622.11 580.5 113.68-1.1031 57.796 97.899-55.885 99.003-113.68 1.1031-57.796-97.899z">
+   <title id="title3358">hive5</title>
+  </path>
+  <path id="path3348" class="hive h6" d="m800.8 683.82 113.68-1.1031 57.796 97.899-55.885 99.003-113.68 1.1031-57.796-97.899z">
+   <title id="title3360">hive6</title>
+  </path>
+ </g>
+</svg>
